@@ -1,0 +1,14 @@
+{
+    "Apples": {
+        "quantity": 10,
+        "total_cost": 2.5
+    },
+    "Oranges": {
+        "quantity": 5,
+        "total_cost": 3.0
+    },
+    "Bananas": {
+        "quantity": 7,
+        "total_cost": 1.5
+    }
+}

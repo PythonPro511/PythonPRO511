@@ -1,0 +1,8 @@
+[
+    {"name": "Alice", "department": "IT", "salary": 5000},
+    {"name": "Bob", "department": "IT", "salary": 4500},
+    {"name": "Charlie", "department": "HR", "salary": 4000},
+    {"name": "Diana", "department": "HR", "salary": 4200},
+    {"name": "Eve", "department": "Finance", "salary": 5200}
+]
+
