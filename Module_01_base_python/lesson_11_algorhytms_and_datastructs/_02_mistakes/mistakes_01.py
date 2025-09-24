@@ -22,17 +22,17 @@
 numbers = [10, 20, 30, 40]
 for num in numbers[:]:
     if num % 20 == 0:
-        numbers.append(40)  # RuntimeError: list changed size during iteration
+        numbers.append(40)
 print(numbers)
 
 numbers = [10, 20, 30, 40]
 for num in list(numbers):
     if num % 20 == 0:
-        numbers.append(40)  # RuntimeError: list changed size during iteration
+        numbers.append(40)
 print(numbers)
 
 numbers = [10, 20, 30, 40]
 for num in numbers.copy():
     if num % 20 == 0:
-        numbers.append(40)  # RuntimeError: list changed size during iteration
+        numbers.append(40)
 print(numbers)
