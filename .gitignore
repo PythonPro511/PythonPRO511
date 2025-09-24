@@ -6,4 +6,4 @@ venv/
 __pycache__/
 lesson_template/
 *.coverage
-lesson_12_abc_classes/_04_patterns/
+Module_02_advance_python/lesson_12_abc_classes/_04_patterns/
